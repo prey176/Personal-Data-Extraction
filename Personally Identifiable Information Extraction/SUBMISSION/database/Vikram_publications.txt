@@ -1,0 +1,102 @@
+2015
+Up-hist tree: An efficient data structure for mining high utility patterns from transaction databases
+Open source social media analytics for intelligence and security informatics applications
+High utility rare itemset mining over transaction databases
+Efficient skyline itemsets mining
+TiDE: template-independent discourse data extraction
+An efficient algorithm for mining high-utility itemsets with discount notion
+Mining frequent spatial-textual sequence patterns
+Top-K high utility episode mining in complex event sequence
+Performance analysis of graph processing frameworks
+Spatio-textual similarity joins using variable prefix filtering
+BSI: Bloom filter-based semantic indexing for unstructured P2P networks
+UP-Hist Tree: efficient data structure for high utility pattern mining from transaction databases
+A Hybrid algorithm for mining high utility itemsets from transaction databases with discount notion
+Efficient Reverse k Nearest Neighbor evaluation for hierarchical index
+Scalable algorithms for spatial-textual data join
+Finding RkNN Set in Directed Graphs
+
+2011
+EcoTop: an economic model for dynamic processing of top-k queries in mobile-P2P networks
+Preserving location privacy for continuous queries on known route
+
+2010
+Generating domain-specific ontology from common-sense semantic network for target specific sentiment analysis
+Opaqueness characteristic of a context honeypot system
+AccKW: an efficient access control scheme for keyword-based search over RDBMS
+
+2017
+Mining top-k high-utility itemsets from a data stream under sliding window model
+A hybrid framework for mining high-utility itemsets in a sparse transaction database
+Big Data Analytics
+Distributed Algorithm for High-Utility Subgraph Pattern Mining Over Big Data Platforms
+Efficient Algorithm for High Utility Subgraph Pattern Mining over Big Data Platforms
+Relative difficulty estimation in community answering services
+Mining interesting sub graphs using big data platforms
+Automatic Retrieval of Actionable Information from Disaster-related Microblogs.
+A comparative study of correlation measures for the application of anomaly detection in Data Streams
+Assessment and Improvement of predictive value of complexity based features for sepsis prediction
+
+2007
+Luring: A framework to induce a suspected user into Context Honeypot
+Security and privacy in cloud computing: A survey.
+PRINDA: Architecture and design of non-disclosure agreements in privacy policy framework
+
+2006
+Malafide intension based detection of privacy violation in information system
+Malafide Intension and its mapping to Privacy Policy Purposes for Masquerading
+Query rewriting for detection of privacy violation through inferencing
+Preserving Obliviousness Characteristic of Honeypot database.
+Design and development of malafide intension based privacy violation detection system (an ongoing research report)
+PRINDA: Architecture and design of non-disclosure agreements in privacy policy framework
+A System to test malafide intension based on privacy violation detection
+Short Papers and Research Reports-Design and Development of Malafide Intension Based Privacy Violation Detection System (An Ongoing Research Report)
+
+2016
+Top-k high utility episode mining from a complex event sequence
+A more efficient algorithm to mine skyline frequent-utility patterns
+Classifying stack overflow questions based on bloom’s taxonomy
+Mintra: Mining anonymized trajectories with annotations
+Mining top-K high utility itemsets in streaming data: a comparative study
+A More Efficient Algorithm to Mine Skyline Frequent-Utility Patterns
+
+2013
+Efficient enforcement of privacy for moving object trajectories
+Efficient trajectory cover search for moving object trajectories
+A ranking measure for top-k moving object trajectories search
+
+2009
+Polarity classification of subjective words using common-sense knowledge-base
+
+2008
+Context honeypot: A framework for anticipatory privacy violation
+A unified audit expression model for auditing sql queries
+Auditing inference based disclosures in dynamic databases
+Precomputation of privacy policy parameters for auditing SQL queries
+
+2012
+Privacy of location obfuscation
+
+2019
+Modeling location obfuscation for continuous query
+Mining Top-k Trajectory-Patterns from Anonymized Data
+A one-phase tree-based algorithm for mining high-utility itemsets from a transaction database
+DiffQue: Estimating Relative Difficulty of Questions in Community Question Answering Services
+Enforcing privacy for location based services
+
+2020
+Interpretability of Blackbox Machine Learning Models through Dataview Extraction and Shadow Model creation
+
+2018
+High-utility itemset mining for subadditive monotone utility functions
+Extracting Fairness Policies from Legal Documents
+Finding the Most Navigable Path in Road Networks: A Summary of Results
+Relative difficulty estimation in community answering services
+Study on web accessibility to help develop assistive technology for visually challenged people
+Study of community aware network expanion
+
+2014
+Finding top-k influential set in directed graphs
+Mining frequent spatial-textual sequential patterns
+Framework to fi nd hairball structure in enterprise data integration repositories
+Privacy preserving reverse spatial and textual nearest neighbour query

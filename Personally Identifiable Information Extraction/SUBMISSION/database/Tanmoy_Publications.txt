@@ -1,0 +1,112 @@
+Title : Network design for vertex connectivity
+Year : 2008
+
+Title : Selective call out and real time bidding
+Year : 2010
+
+Title : Planar and grid graph reachability problems
+Year : 2009
+
+Title : Approximating pure nash equilibrium in cut, party affiliation, and satisfiability games
+Year : 2010
+
+Title : A behavioral study of bargaining in social networks
+Year : 2010
+
+Title : Dynamic and nonuniform pricing strategies for revenue maximization
+Year : 2013
+
+Title : Market making and mean reversion
+Year : 2011
+
+Title : Network bargaining: algorithms and structural results
+Year : 2009
+
+Title : Grid graph reachability problems
+Year : 2006
+
+Title : Approximation schemes for sequential posted pricing in multi-unit auctions
+Year : 2010
+
+Title : Mechanism design for a risk averse seller
+Year : 2012
+
+Title : One-input-face MPCVP is hard for L, but in LogDCFL
+Year : 2006
+
+Title : Bargaining solutions in a social network
+Year : 2008
+
+Title : Selecting organic content and advertisements for presentation to social networking system users based on user engagement
+Year : 2018
+
+Title : Nash dynamics in congestion games with similar resources
+Year : 2009
+
+Title : Bandwidth Constrained Auctions
+Year : 2011
+
+Title : Nash dynamics in constant player and bounded jump congestion games
+Year : 2009
+
+Title : Relaxing policy rules for regulating the presentation of sponsored content to a user of an online system
+Year : 2017
+
+Title : Adjusting content item specific bid amounts to bias selection of content items from an ad campaign
+Year : 2016
+
+Title : Repositioning Previously Presented Content Items For Presentation To A User Via An Updated News Feed
+Year : 2016
+
+Title : Mechanism Design and Risk Aversion
+Year : 2011
+
+Title : Bargaining and pricing in networked economic systems
+Year : 2011
+
+Title : Identifying and adjusting for systemic biases in quality metrics of content
+Year : 2019
+
+Title : OPTIMIZING GENERATION OF A FEED OF CONTENT FOR A USER BASED ON PRIOR USER INTERACTIONS WITH THE FEED OF CONTENT
+Year : 2019
+
+Title : Modeling content item quality using weighted rankings
+Year : 2019
+
+Title : Selecting sponsored content and organic content for presentation to an online system user while accounting for relative positioning of sponsored content and organic content
+Year : 2019
+
+Title : Accounting for long-term user interaction with an application in selection of content associated with the application by an online system
+Year : 2018
+
+Title : Presenting content items to an online system user in a sequence based on user interaction with the content items
+Year : 2017
+
+Title : Evenly presenting content items from a campaign over a time interval by modifying bid amounts associated with the content items
+Year : 2016
+
+Title : Market making in mean reversion price models
+Year : 2010
+
+Title : Mechanism design for a risk averse world
+
+Title : Adjusting reserve prices for advertisements presented to social networking system users
+Year : 2019
+
+Title : Selecting organic content and advertisements for presentation to social networking system users based on user engagement
+Year : 2018
+
+Title : Controlling a content auction with a threshold value
+Year : 2018
+
+Title : Advertisement relevance score using social signals
+Year : 2017
+
+Title : Mechanism Design for a Risk Averse World
+Year : 2012
+
+Title : Approximating Pure Nash Equilibrium in Cut, Party Affiliation, and Satisfying Games
+Year : 2010
+
+Title : NAME AFFILIATION EMAIL
+Year : 2009

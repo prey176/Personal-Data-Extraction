@@ -1,0 +1,8 @@
+schoolName :   Indian Institute of Technology, Delhi
+degreeName :   PhD
+timePeriod :   {'endDate': {'year': 2009}, 'startDate': {'year': 2003}}
+fieldOfStudy :   Computer Science
+
+schoolName :   Vaish College of Engineering, Rohtak
+
+schoolName :   Vaish College of Engineering, Rohtak

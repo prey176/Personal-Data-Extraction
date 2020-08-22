@@ -1,0 +1,24 @@
+locationName :   New Delhi Area, India
+companyName :   IIIT Delhi
+timePeriod :  2019
+title :   Head Of Department, CSE
+
+locationName :   Okhla Phase-III
+companyName :   IIIT-Delhi
+timePeriod :  2015
+title :   Associate Professor
+
+companyName :   IIIT Delhi
+timePeriod :  2008
+title :   Assistant Professor
+description :   I do research in the area of Spatial Data Management and Data Privacy
+
+companyName :   IIT Delhi [Computer Science & Engineering ]
+timePeriod :  2003
+title :   Research Scholar
+description :   Research on Data Privacy
+
+companyName :   Amity School of Engineering and Technology, Bijwasan, Delhi
+timePeriod :  2002
+title :   Lecturer
+description :   Taught DBMS, Discrete Mathematics, Visual Programming courses

@@ -1,0 +1,11 @@
+Title : Strong and weak reducibility of algorithmic problems
+Year : 2016
+
+Title : Mass problems and intuitionistic higher-order logic
+Year : 2014
+
+Title : A model of intuitionism based on Turing degrees
+Year : 2013
+
+Title : Restricted Rules of Inference and Paraconsistency
+Year : 2020
