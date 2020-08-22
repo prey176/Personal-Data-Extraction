@@ -2,6 +2,11 @@ Mohit Juneja - 2017067
 Aarish Chhabra - 2017212
 Preyansh Rastogi - 2017176
 
+Faculties Choosen
+	Dr. Vikram Goyal
+	Dr. Tanmoy
+	Dr. Sankha S. Basu
+
 Libraries
 	scholarly
 	plotly
@@ -12,8 +17,7 @@ Libraries
 	time
 	pickle
 
-Webpage - https://sites.google.com/view/facultydetails/
-
+Webpage - NA (Due to information vulnerability)
 
 Social Networks Used
 	LinkedIn, Twitter, Google Scholar, Facebook, Vidwan, Scopus
